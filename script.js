@@ -1,3 +1,5 @@
+const heroImg = document.querySelector(".hero-img");
+
 $(function () {
   $(".menu-btn").click(function () {
     const img = $(".menu-btn img");
